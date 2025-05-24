@@ -22,8 +22,9 @@ The PCB layout was created by importing the schematic, defining the board outlin
 - Signal integrity
 - Power distribution
 - Thermal management
+  
 
-   ![Lay Out Diagram] (https://github.com/tharunreddy1801/KiCad/blob/main/layout.png?raw=true)
+![Lay Out Diagram](https://github.com/tharunreddy1801/KiCad/blob/main/layout.png?raw=true)
 
   
 ### Design Verification
