@@ -23,6 +23,9 @@ The PCB layout was created by importing the schematic, defining the board outlin
 - Power distribution
 - Thermal management
 
+   ![Lay Out Diagram] (https://github.com/tharunreddy1801/KiCad/blob/main/layout.png?raw=true)
+
+  
 ### Design Verification
 The PCB design was checked for errors and validated through design rule checks (DRC) to ensure manufacturability.
 
